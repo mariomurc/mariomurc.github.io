@@ -7,7 +7,7 @@
 
 [Cuestionario ASIR](https://mega.nz/file/5UkRiK5J#_nqIj-d1SMmQvdNrGuPicjrRoXwP3FRtar98ZoSUPyE)
 
-[Aplicaciones Web](https://mariomurc.github.io/edit/main/aWeb.md)
+[Aplicaciones Web](https://mariomurc.github.io/aWeb.md)
 
 https://chuchip.github.io/web/pagina2.html
 
