@@ -6,9 +6,5 @@
 [Cuestionario DAW](https://mega.nz/file/FZtjlSRb#h_A7geGkR4MMr0SZbvu3oJqPP3gq8PpNbpwoteqKVhg)
 
 [Cuestionario ASIR](https://mega.nz/file/5UkRiK5J#_nqIj-d1SMmQvdNrGuPicjrRoXwP3FRtar98ZoSUPyE)
-
-[Aplicaciones Web](https://mariomurc.github.io/aWeb.html)
- mariomurc.github.io/aWeb.md 
-
-https://chuchip.github.io/web/pagina2.html
+ 
 
