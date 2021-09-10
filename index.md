@@ -1,4 +1,4 @@
-## Bienvenido al curso 21/22
+## Bienvenidos al curso 21/22
 
 
 [Cuestionario DAM](https://mega.nz/file/hZ0BAIDa#hV6L0hnTm2xDYeHcLaCdTJOCdS8U_6GRLKdFTC1WUlo)
