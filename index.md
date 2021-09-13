@@ -1,7 +1,7 @@
 ## Bienvenidos al curso 21/22
 
 
-[Cuestionario DAM](https://mega.nz/file/hZ0BAIDa#hV6L0hnTm2xDYeHcLaCdTJOCdS8U_6GRLKdFTC1WUlo)
+[Cuestionario](https://mega.nz/file/hZ0BAIDa#hV6L0hnTm2xDYeHcLaCdTJOCdS8U_6GRLKdFTC1WUlo)
 
 [Cuestionario DAW](https://mega.nz/file/FZtjlSRb#h_A7geGkR4MMr0SZbvu3oJqPP3gq8PpNbpwoteqKVhg)
 
