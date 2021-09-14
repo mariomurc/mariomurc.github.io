@@ -10,5 +10,6 @@
 
 [UD1_BasesDeDatos_NoSQL](https://mega.nz/file/0ZdBgaYQ#oSw3Nn5dv_GQeNze0HbU5TuW8yMDS7jzJ8vjV6NALQo)
 
+[Comparativa ORACLE - MySql - PostgreSQL](https://db-engines.com/en/system/MySQL%3bOracle%3bPostgreSQL)
 
 ## LENGUAJES DE MARCAS
