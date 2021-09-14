@@ -1,5 +1,8 @@
 # DOCUMENTOS CURSO DAM
 
+## CUESTIONARIO EVALUACIÓN INICIAL
+[Cuestionario DAM](https://mega.nz/file/hZ0BAIDa#hV6L0hnTm2xDYeHcLaCdTJOCdS8U_6GRLKdFTC1WUlo)
+
 ## BASES DE DATOS
 [UD1_Sistemas_almacenamiento_informacion_DAM](https://mega.nz/file/0MNBgKoD#jvAWM3g2zqnlucT_-HoUT8JQ4Setk8Ro0CdwPz5c0jE)
 
