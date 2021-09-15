@@ -13,3 +13,5 @@
 [Comparativa ORACLE - MySql - PostgreSQL](https://db-engines.com/en/system/MySQL%3bOracle%3bPostgreSQL)
 
 ## LENGUAJES DE MARCAS
+
+[UD1 Características de los lenguajes de Marcas](https://mega.nz/file/tRVngaID#fFpZ0x5zvA2Y0hFsnrcdIBsWHXPyBg0o8TadpkzBk78)
