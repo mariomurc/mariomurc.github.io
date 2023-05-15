@@ -1,0 +1,37 @@
+{
+          "viajes": [
+             {
+             "viaje": { "origen": { "iataCode": "VL", "name": "Valencia" },
+                        "destino": { "iataCode": "BCN", "name": "Barcelona" },
+                        "price": { "value": "55.16", "currencySymbol": "€" },
+                        "dateFrom": "2021-01-02T00:00:00+00:00",
+                        "dateTo": "2021-05-02T00:00:00+01:00"
+                      }
+             },
+             {
+             "viaje": { "origen": { "iataCode": "MD", "name": "Madrid" },
+                        "destino": { "iataCode": "BCN", "name": "Barcelona" },
+                        "price": { "value": "99.19", "currencySymbol": "€" },
+                        "dateFrom": "2020-03-21T00:00:00+00:00",
+                        "dateTo": "2020-04-25T00:00:00+01:00"
+                      }
+             },
+            {
+             "viaje": { "origen": { "iataCode": "PR", "name": "París" },
+                        "destino": { "iataCode": "SIN", "name": "Singapur" },
+                        "price": { "value": "999.22", "currencySymbol": "€" },
+                        "dateFrom": "2022-02-02T00:00:00+00:00",
+                        "dateTo": "2022-04-02T00:00:00+01:00"
+                      }
+             },
+             {
+             "viaje": { "origen": { "iataCode": "MD", "name": "Madrid" },
+                        "destino": { "iataCode": "SAI", "name": "Saigón" },
+                        "price": { "value": "1099.79", "currencySymbol": "€" },
+                        "dateFrom": "2023-03-21T00:00:00+00:00",
+                        "dateTo": "2023-04-21T00:00:00+01:00"
+                      }
+             }
+
+          ]
+        }
