@@ -1,0 +1,18 @@
+{
+ 	"viaje": {
+ 		"origen": {
+ 			"iataCode": "VL",
+ 			"name": "Valencia"
+ 		},
+ 		"destino": {
+ 			"iataCode": "BCN",
+ 			"name": "Barcelona"
+ 		},
+ 		"price": {
+ 			"value": "99.16",
+ 			"currencySymbol": "€"
+ 		},
+ 		"dateFrom": "2015-02-02T00:00:00+00:00",
+ 		"dateTo": "2015-04-02T00:00:00+01:00"
+ 	}
+ }
