@@ -9,3 +9,6 @@
 
 [Viajes.json](viajes.json)
 
+[Viaje.json](viaje.json)
+
+[Persona.json](persona.json)
