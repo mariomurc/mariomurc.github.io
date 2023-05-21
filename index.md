@@ -15,4 +15,4 @@
 
 [Felinos.json](felinos.json)
 
-[Felinos_Simple.json] (felinos_simple.json)
+[Felinos Simple.json] (felinosSimple.json)
