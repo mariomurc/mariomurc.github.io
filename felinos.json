@@ -1,0 +1,73 @@
+[
+  {
+    "nombre" : "Lindy",
+    "raza" : "Cymric",
+    "color" : "white",
+    "crias" : [
+      {
+        "nombre" : "Percy",
+        "sexo" : "m",
+        "edad": 1,
+        "alimentacion": ["pan","leche"]
+      },
+      {
+        "nombre" : "Thea",
+        "sexo" : "f",
+        "edad": 3,
+        "alimentacion": ["pan", "leche", "pescado"]
+      },
+      {
+        "nombre" : "Annis",
+        "sexo" : "f",
+        "edad": 7,
+        "alimentacion": ["pan","roedores","pescado"]
+
+      }
+    ]
+  },
+  {
+    "nombre" : "Mina",
+    "raza" : "Aphrodite Giant",
+    "color" : "ginger",
+    "crias" : [
+      {
+        "nombre" : "Doris",
+        "sexo" : "f",
+        "edad": 6,
+        "alimentacion": ["pan","roedores","pescado"]
+
+      },
+      {
+        "nombre" : "Pickle",
+        "sexo" : "f",
+        "edad": 2,
+        "alimentacion": ["pan","leche"]
+      },
+      {
+        "nombre" : "Max",
+        "sexo" : "m",
+        "edad": 10,
+        "alimentacion": ["leche","pescado"]        
+      }
+    ]
+  },
+  {
+    "nombre" : "Antonia",
+    "raza" : "Ocicat",
+    "color" : "leopard spotted",
+    "crias" : [
+      {
+        "nombre" : "Bridget",
+        "sexo" : "f",
+        "edad": 3,
+        "alimentacion": ["pan","leche","pescado"]
+      },
+      {
+        "nombre" : "Randolph",
+        "sexo" : "m",
+        "edad": 4,
+        "alimentacion": ["roedores","pescado"]
+      }
+    ]
+  }
+]
