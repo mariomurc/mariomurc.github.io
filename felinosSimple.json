@@ -3,7 +3,7 @@
     "nombre" : "Lindy",
     "raza" : "Cymric",
     "color" : "white",
-    "crias" : ["Percy","Thea","Thea"],
+    "crias" : ["Percy","Thea","Mara"],
     "alimentacion": ["pan","leche"],
     "edad": 1
   },
