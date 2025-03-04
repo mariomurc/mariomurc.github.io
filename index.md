@@ -1,5 +1,12 @@
 ## ENLACES CAMBRIDGE
+1. Acceso al formulario de consentimiento:
+https://formularios.educa.madrid.org/index.php/626278?lang=es
 
+2. Acceso a la prueba de Benchmarking:
+https://www.metritests.com/metrica/
+
+3. Acceso al cuestionario post-prueba de Benchmarking:
+https://formularios.educa.madrid.org/index.php/536899?lang=es
 
 
 
