@@ -7,6 +7,7 @@
 
 ### 2º ESO
 [MÁXIMO COMÚN DIVISOR](https://cloud.educa.madrid.org/s/7sMNjgjzWedZzW4)
+
 [MÍNIMO COMÚN MÚLTIPLO]
 
 ## ENLACES CAMBRIDGE
