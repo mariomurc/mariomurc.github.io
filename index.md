@@ -6,7 +6,8 @@
 
 
 ### 2º ESO
-
+[MÁXIMO COMÚN DIVISOR](https://cloud.educa.madrid.org/s/7sMNjgjzWedZzW4)
+[MÍNIMO COMÚN MÚLTIPLO]
 
 ## ENLACES CAMBRIDGE
 [1. Acceso al formulario de consentimiento](https://formularios.educa.madrid.org/index.php/626278?lang=es)
