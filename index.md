@@ -7,6 +7,7 @@
 
 ### 2º ESO
 [MÁXIMO COMÚN DIVISOR 1 a 50](https://cloud.educa.madrid.org/s/aQfB4TL3MjMidCA)
+
 [MÁXIMO COMÚN DIVISOR 50 a 99](https://cloud.educa.madrid.org/s/4CD5oiWzTExFJDs)
 
 [MÍNIMO COMÚN MÚLTIPLO]
