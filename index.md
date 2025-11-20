@@ -6,7 +6,7 @@
 
 
 ### 2º ESO
-[MÁXIMO COMÚN DIVISOR](https://cloud.educa.madrid.org/s/7sMNjgjzWedZzW4)
+[MÁXIMO COMÚN DIVISOR](https://cloud.educa.madrid.org/s/aQfB4TL3MjMidCA)
 
 [MÍNIMO COMÚN MÚLTIPLO]
 
