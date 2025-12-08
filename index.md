@@ -8,19 +8,14 @@
 
 [MÁXIMO COMÚN DIVISOR 50 a 99](https://cloud.educa.madrid.org/s/4CD5oiWzTExFJDs)
 
+
+
 ### 2º ESO
 [MÁXIMO COMÚN DIVISOR 1 a 50](https://cloud.educa.madrid.org/s/aQfB4TL3MjMidCA)
 
 [MÁXIMO COMÚN DIVISOR 50 a 99](https://cloud.educa.madrid.org/s/4CD5oiWzTExFJDs)
 
 [MÍNIMO COMÚN MÚLTIPLO]
-
-## ENLACES CAMBRIDGE
-[1. Acceso al formulario de consentimiento](https://formularios.educa.madrid.org/index.php/626278?lang=es)
-
-[2. Acceso a la prueba de Benchmarking](https://www.metritests.com/metrica/)
-
-[3. Acceso al cuestionario post-prueba de Benchmarking](https://formularios.educa.madrid.org/index.php/536899?lang=es)
 
 
 
