@@ -19,6 +19,10 @@
 
 [MÍNIMO COMÚN MÚLTIPLO 1 a 99](https://cloud.educa.madrid.org/s/FcpAKA6q4j3oDJX)
 
+[SUMA DE DOS FRACCIONES](https://cloud.educa.madrid.org/s/7r5rox2sLdDyYnt)
+
+[SUMA DE FRACCIÓN Y NÚMERO]
+
 
 
 ## Curso 23/24
