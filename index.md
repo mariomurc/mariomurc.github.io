@@ -21,7 +21,7 @@
 
 [SUMA DE DOS FRACCIONES](https://cloud.educa.madrid.org/s/7r5rox2sLdDyYnt)
 
-[SUMA DE FRACCIÓN Y NÚMERO]
+[SUMA DE FRACCIÓN Y NÚMERO](https://cloud.educa.madrid.org/s/eJBHBnekPYTTQXW)
 
 
 
