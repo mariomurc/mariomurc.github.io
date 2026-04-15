@@ -27,7 +27,7 @@ En la última sesión hicimos esto:
 
 [SUMA DE DOS FRACCIONES](https://cloud.educa.madrid.org/s/7r5rox2sLdDyYnt)
 
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ### 2º ESO
 [MÁXIMO COMÚN DIVISOR 1 a 50](https://cloud.educa.madrid.org/s/aQfB4TL3MjMidCA)
 
