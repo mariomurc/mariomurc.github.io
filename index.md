@@ -5,7 +5,8 @@
 En la última sesión hicimos esto:
 [SUMA DE DOS NÚMEROS](https://cloud.educa.madrid.org/s/ZRLTdifjn7cGKxX)
 
-¿Alguien se atreve a construir la suma de 3 números?<br>
+¿Alguien se atreve a construir la multiplicación de dos números si pulsamos A+B?
+¿Y construir la suma de 3 números?<br>
 ¿Y Multiplicar dos números?<br>
 ¿Y sumar dos fracciones con el mismo denominador?<br>
 
