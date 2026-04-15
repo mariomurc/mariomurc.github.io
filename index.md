@@ -2,8 +2,12 @@
 ### 1º ESO
 
 #### 15 DE ABRIL
+En la última sesión hicimos esto:
 [SUMA DE DOS NÚMEROS](https://cloud.educa.madrid.org/s/ZRLTdifjn7cGKxX)
 
+¿Alguien se atreve a construir la suma de 3 números?
+¿Y Multiplicar dos números?
+¿Y sumar dos fracciones con el mismo denominador?
 
 #### 10 DE MARZO
 [MULTIPLICACIONES](https://cloud.educa.madrid.org/s/AJ7RC87xTjXqNnC)
