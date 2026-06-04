@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -333,5 +332,3 @@
     <p>#ConectaElValor #DesconectaElResiduo #SMR</p>
 </footer>
 
-</body>
-</html>
