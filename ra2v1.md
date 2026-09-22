@@ -16,9 +16,9 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 > *setContentView(R.layout.activity_main)*
 
-*}*
+}
 
-*}*
+}
 
 En este código aparecen conceptos que ya conocemos de Kotlin:
 
