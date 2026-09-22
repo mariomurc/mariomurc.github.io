@@ -116,13 +116,13 @@ Cuando la Activity se crea por primera vez solemos cargar los elementos necesari
 
 Por ejemplo:
 
-- Conectar con una base de datos.
+        - Conectar con una base de datos.
 
-- Cargar una lista de alumnos.
+        - Cargar una lista de alumnos.
 
-- Inicializar un RecyclerView.
+        - Inicializar un RecyclerView.
 
-- Preparar una conexión a internet.
+        - Preparar una conexión a internet.
 
 <!-- -->
 
@@ -145,8 +145,8 @@ Ejemplo sencillo:
 
 ```kotlin
 override fun onSaveInstanceState(outState: Bundle) {
-super.onSaveInstanceState(outState)
-outState.putString("nombre", txtNombre.text.toString()
+    super.onSaveInstanceState(outState)
+    outState.putString("nombre", txtNombre.text.toString()
 )
 }
 ```
