@@ -1,2 +1,7 @@
-theme: just-the-docs
-title: Mi documentación
+title: Apuntes DAM
+description: Material del ciclo DAM
+ 
+remote_theme: just-the-docs/just-the-docs
+ 
+plugins:
+ - jekyll-remote-theme
