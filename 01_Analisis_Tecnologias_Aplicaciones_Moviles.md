@@ -39,11 +39,11 @@ Android e iOS aíslan las aplicaciones mediante mecanismos de seguridad y restri
 
 Aspectos fundamentales:
 
-- solicitar solo los **permisos mínimos necesarios**;
-- asumir que el proceso puede detenerse y posteriormente recrearse;
-- utilizar las APIs recomendadas para trabajo diferido y segundo plano;
-- comprobar la compatibilidad con diferentes versiones del sistema operativo;
-- diseñar teniendo en cuenta cambios de configuración y recuperación de estado.
+- Solicitar solo los **permisos mínimos necesarios**;
+- Asumir que el proceso puede detenerse y posteriormente recrearse;
+- Utilizar las APIs recomendadas para trabajo diferido y segundo plano;
+- Comprobar la compatibilidad con diferentes versiones del sistema operativo;
+- Diseñar teniendo en cuenta cambios de configuración y recuperación de estado.
 
 ### 1.3. Conectividad
 
@@ -70,13 +70,13 @@ En lugar de diseñar para un modelo concreto, es preferible trabajar con **capac
 
 Una aplicación móvil segura debe aplicar, entre otras, estas prácticas:
 
-- principio de mínimo privilegio en permisos;
-- cifrado de las comunicaciones mediante HTTPS/TLS;
-- almacenamiento seguro de secretos y credenciales;
-- autenticación y gestión de sesión correctas;
-- actualización de dependencias;
-- validación de entradas y tratamiento seguro de datos externos;
-- recopilación únicamente de los datos personales necesarios.
+- Principio de mínimo privilegio en permisos
+- Cifrado de las comunicaciones mediante HTTPS/TLS
+- Almacenamiento seguro de secretos y credenciales
+- Autenticación y gestión de sesión correctas
+- Actualización de dependencias
+- Validación de entradas y tratamiento seguro de datos externos
+- Recopilación únicamente de los datos personales necesarios
 
 Como referencia de buenas prácticas de seguridad móvil resulta útil **OWASP MASVS**.
 
@@ -142,15 +142,15 @@ Las aplicaciones híbridas permiten reutilizar HTML, CSS y JavaScript/TypeScript
 
 Ventajas:
 
-- reaprovechamiento de conocimientos web;
-- gran porcentaje de código compartido;
-- acceso a capacidades nativas mediante plugins.
+- Reaprovechamiento de conocimientos web
+- Gran porcentaje de código compartido
+- Acceso a capacidades nativas mediante plugins
 
 Consideraciones:
 
-- la UI se ejecuta principalmente en una WebView;
-- ciertas necesidades avanzadas pueden requerir código o plugins nativos;
-- hay que evaluar rendimiento y experiencia de usuario según el producto.
+- La UI se ejecuta principalmente en una WebView
+- Ciertas necesidades avanzadas pueden requerir código o plugins nativos
+- Hay que evaluar rendimiento y experiencia de usuario según el producto
 
 ### 2.3. Desarrollo multiplataforma
 
@@ -166,10 +166,10 @@ Flutter, desarrollado por Google, utiliza **Dart** y su propio sistema de render
 
 Características:
 
-- UI declarativa mediante widgets;
-- personalización visual elevada;
-- *hot reload* durante el desarrollo;
-- soporte para Android, iOS y otros destinos.
+- UI declarativa mediante widgets
+- Personalización visual elevada;
+- *Hot reload* durante el desarrollo
+- Soporte para Android, iOS y otros destinos.
 
 Flutter ya no debe describirse como una tecnología "en una etapa temprana": es un ecosistema consolidado.
 
@@ -177,9 +177,9 @@ Flutter ya no debe describirse como una tecnología "en una etapa temprana": es 
 
 **Kotlin Multiplatform (KMP)** permite decidir cuánto código compartir:
 
-1. una parte concreta de la lógica;
-2. la capa de datos y negocio manteniendo UI nativa;
-3. lógica e interfaz compartidas mediante **Compose Multiplatform**.
+1. Una parte concreta de la lógica;
+2. La capa de datos y negocio manteniendo UI nativa;
+3. Lógica e interfaz compartidas mediante **Compose Multiplatform**.
 
 ```text
 Kotlin Multiplatform
@@ -192,8 +192,6 @@ Compose Multiplatform permite aprovechar conocimientos de Jetpack Compose para c
 #### .NET MAUI
 
 **.NET MAUI** permite desarrollar con C# y XAML para Android, iOS, macOS y Windows compartiendo buena parte del proyecto y accediendo a APIs específicas cuando es necesario.
-
-> **Nota histórica:** Xamarin y Xamarin.Forms finalizaron su soporte oficial de Microsoft el 1 de mayo de 2024. Deben estudiarse como tecnologías heredadas, no como la alternativa .NET recomendada para proyectos nuevos.
 
 ### 2.4. Videojuegos
 
@@ -222,8 +220,6 @@ La idea importante para el alumnado no es memorizar APIs, sino comprender que **
 ---
 
 ## 3. Clasificación y características de los dispositivos móviles
-
-> Este apartado sustituye al antiguo título "Instalación y configuración de entornos de trabajo", ya que su contenido realmente clasifica dispositivos y analiza sus capacidades.
 
 ### 3.1. Segmento de mercado
 
