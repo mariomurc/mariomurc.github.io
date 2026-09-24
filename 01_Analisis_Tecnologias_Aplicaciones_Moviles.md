@@ -225,7 +225,7 @@ La idea importante para el alumnado no es memorizar APIs, sino comprender que **
 
 En lugar de asociar cada gama a cantidades fijas de RAM o a modelos concretos de procesador, es más duradero trabajar con perfiles relativos.
 
-- **Entrada:** recursos más restringidos, mayor necesidad de controlar memoria, almacenamiento y coste computacional.
+- **Baja:** recursos más restringidos, mayor necesidad de controlar memoria, almacenamiento y coste computacional.
 - **Media:** equilibrio entre precio, autonomía y rendimiento; representa un objetivo importante para pruebas reales.
 - **Alta:** mayor capacidad de CPU/GPU, cámaras y conectividad, aunque sigue sometida a restricciones térmicas y energéticas.
 
@@ -238,8 +238,6 @@ La clasificación comercial cambia con rapidez y no sustituye a la medición del
 - **Plegables.** Introducen cambios de tamaño durante el uso, posturas y áreas de pantalla diferentes.
 - **Otros destinos relacionados.** Wearables, automoción, TV y dispositivos XR pueden usar tecnologías del mismo ecosistema, aunque requieren paradigmas de interacción propios.
 
-La categoría **phablet** ha perdido utilidad como categoría técnica independiente porque las pantallas grandes son habituales en smartphones actuales.
-
 ### 3.3. Sistema operativo
 
 - **Android:** presente en dispositivos de múltiples fabricantes y factores de forma.
@@ -250,11 +248,11 @@ La categoría **phablet** ha perdido utilidad como categoría técnica independi
 
 El objetivo de ingeniería no es memorizar velocidades máximas teóricas, sino diseñar para entornos reales:
 
-- redes 4G/5G;
+- Redes 4G/5G;
 - Wi-Fi de distintas generaciones;
-- cambios entre redes;
-- pérdida temporal de conexión;
-- latencia variable y conexiones medidas.
+- Cambios entre redes;
+- Pérdida temporal de conexión;
+- Latencia variable y conexiones medidas.
 
 ### 3.5. Batería
 
@@ -270,12 +268,12 @@ Los perfiles ayudan a razonar sobre compatibilidad, pero no deben convertirse en
 
 ### 4.1. Perfil de recursos restringidos
 
-Aplicaciones compatibles con hardware modesto deben:
+Las aplicaciones compatibles con hardware modesto deben:
 
-- limitar memoria y espacio ocupado;
-- reducir trabajo en segundo plano;
-- funcionar correctamente con red lenta o intermitente;
-- evitar animaciones o gráficos innecesariamente costosos.
+- Limitar memoria y espacio ocupado;
+- Reducir trabajo en segundo plano;
+- Funcionar correctamente con red lenta o intermitente;
+- Evitar animaciones o gráficos innecesariamente costosos.
 
 ### 4.2. Perfil generalista
 
@@ -311,7 +309,7 @@ Responsable de renderizar el estado y capturar eventos del usuario.
 
 En Android moderno:
 
-- funciones `@Composable`;
+- Funciones `@Composable`;
 - `ViewModel` como *state holder* a nivel de pantalla;
 - `StateFlow` o estado observable;
 - Navigation para navegación entre destinos.
@@ -367,10 +365,10 @@ UI en Compose
 
 Principios:
 
-- el **estado fluye hacia la UI**;
-- los **eventos fluyen desde la UI** hacia quien gestiona el estado;
-- debe existir una fuente de verdad clara;
-- la UI debe realizar el mínimo de lógica posible.
+- El **estado fluye hacia la UI**;
+- Los **eventos fluyen desde la UI** hacia quien gestiona el estado;
+- Debe existir una fuente de verdad clara;
+- La UI debe realizar el mínimo de lógica posible.
 
 ### 5.6. Ejemplo moderno con Kotlin y Jetpack Compose
 
