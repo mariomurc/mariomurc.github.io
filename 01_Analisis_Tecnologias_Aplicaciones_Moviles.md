@@ -4,8 +4,6 @@
 **Ciclo:** 2.º DAM  
 **Revisión y actualización:** septiembre de 2026
 
-> Esta unidad presenta las restricciones de los dispositivos móviles, los principales enfoques de desarrollo y las arquitecturas habituales. La revisión actualiza el contenido hacia Kotlin, Jetpack Compose, SwiftUI, Kotlin Multiplatform, .NET MAUI, la arquitectura moderna de React Native e Ionic con Capacitor.
-
 ## Sumario
 
 1. [Limitaciones en la ejecución de aplicaciones móviles](#1-limitaciones-en-la-ejecución-de-aplicaciones-móviles)
